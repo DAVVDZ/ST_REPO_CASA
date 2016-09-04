@@ -1,0 +1,3 @@
+https://github.com/ropensci/rplos.git
+por fin recuerdo como se crea esto
+
